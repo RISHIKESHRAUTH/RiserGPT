@@ -1,7 +1,11 @@
 ### **RiserGPT** is a next-generation AI chatbot powered by the all-new advanced **RH** models by **Rishikesh Rauth**.
+
+
 Now faster, smarter, smoother, and more powerful than ever before.
 
 Download the official **RiserGPT** Android app from the official APK link below.
+
+**[Click Me To Download RiserGPT App](https://github.com/RISHIKESHRAUTH/RiserGPT/releases/download/risergpt-v6/RiserGPT.apk)**
 
 **✨ What's New in RiserGPT-6**
 **🧠 New Advanced Models**
