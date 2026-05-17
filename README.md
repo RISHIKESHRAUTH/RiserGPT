@@ -5,7 +5,7 @@ Now faster, smarter, smoother, and more powerful than ever before.
 
 Download the official **RiserGPT** Android app from the official APK link below.
 
-**[Click Me To Download RiserGPT App](https://github.com/RISHIKESHRAUTH/RiserGPT/releases/download/risergpt-v6/RiserGPT.apk)**
+**[Click Me To Download RiserGPT App](https://github.com/RISHIKESHRAUTH/RiserGPT/releases/download/risergpt-v6/RiserGPT-V6.2.apk)**
 
 **✨ What's New in RiserGPT-6**
 **🧠 New Advanced Models**
